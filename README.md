@@ -1,2 +1,3 @@
 # hello-world
 Initial foray into code repositorization. Nothing important to see here, move along......
+Apparently, my skills in my current career has motivated me to "Learn How To Code"
